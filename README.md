@@ -16,7 +16,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 Exploring advance Excel, MySQL, EDA, PySpark, PowerBI,Python,  Machine Learning.
+- 🌱 Exploring Advanced Excel, MySQL, PowerBI,Python,  Machine Learning.
 - ⚡ In my free time I solve problems on GeeksforGeeks, HackerRank and read tech articles.
 - 📫 How to reach me: &nbsp; 
 <a href="mailto:kamalr193@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=flat&logo=Gmail&logoColor=red" alt="Gmail Badge"></a>
